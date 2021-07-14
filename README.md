@@ -2,7 +2,7 @@
 > flask restplus api **swagger documentation**
 
 ## create environment
-'virtualenv venv`
+`virtualenv venv`
 
 ## activate enivironment
 `source venv/bin/activate`
