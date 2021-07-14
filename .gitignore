@@ -1,0 +1,4 @@
+venv/
+mschool.json
+pycache/
+*tar.gz
